@@ -15,5 +15,5 @@ U_NP,              U_NP,              KC_DOT,            KC_0,              KC_M
 #define MIRYOKU_LAYER_SYM \
 KC_ASTR,           KC_AMPR,           KC_LCBR,           KC_RCBR,           KC_CIRC,           U_NA,              TD(U_TD_U_BASE),   TD(U_TD_U_EXTRA),  TD(U_TD_U_TAP),    TD(U_TD_BOOT),     \
 KC_COLN,           KC_DLR,            KC_LPRN,           KC_RPRN,           KC_PLUS,           U_NA,              KC_LSFT,           KC_LCTL,           KC_LALT,           KC_LGUI,           \
-KC_TILD,           KC_EXLM,           KC_LBRC,             KC_RCBR,           KC_PIPE,           U_NA,              TD(U_TD_U_SYM),    TD(U_TD_U_MOUSE),  KC_ALGR,           U_NA,              \
-U_NP,              U_NP,              KC_PERC,           KC_AT,           KC_UNDS,           U_NA,              U_NA,              U_NA,              U_NP,              U_NP
+KC_TILD,           KC_EXLM,           KC_LBRC,           KC_RBRC,           KC_PIPE,           U_NA,              TD(U_TD_U_SYM),    TD(U_TD_U_MOUSE),  KC_ALGR,           U_NA,              \
+U_NP,              U_NP,              KC_PERC,           KC_AT,             KC_UNDS,           U_NA,              U_NA,              U_NA,              U_NP,              U_NP
